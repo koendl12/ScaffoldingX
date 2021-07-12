@@ -13,5 +13,5 @@ Currently, there are  20 companies worldwide that actively use bioprinting to ma
 
 Team members:
 Shalini Ananda, PhD
-Koen de Lambaert , MD, MBA
+Koen de Lombaert , MD, MBA
 Ivan Wong, MS
